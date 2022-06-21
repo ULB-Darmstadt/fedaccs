@@ -1,5 +1,7 @@
+# fedaccs
+general information for the folio federated access (fedaccs) project 
+
 <!-- TOC start -->
-- [fedaccs](#fedaccs)
   * [Project ](#project)
   * [Stripes UI Modules](#stripes-ui-modules)
     + [stripes-core](#stripes-core)
@@ -10,8 +12,6 @@
   * [Remarks on further use](#remarks-on-further-use)
 <!-- TOC end -->
 <!-- TOC --><a name="fedaccs"></a>
-# fedaccs
-general information for the folio federated access (fedaccs) project 
 
 <!-- TOC --><a name="project"></a>
 ## Project 
