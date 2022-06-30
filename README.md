@@ -15,12 +15,15 @@ general information for the folio federated access (fedaccs) project
 
 <!-- TOC --><a name="project"></a>
 ## Project 
-The project was funded by the **"Innovation Fund of the Hessian Ministry of Science and the Arts"** and managed by the **University and State Library (ULB)** of the Technical University Darmstadt (TU). We have cooperated with the company **Knowledge Integration, Sheffield**.
+The project was funded by the **"Innovation Fund of the Hessian Ministry of Science and the Arts"** and managed by the **University and State Library (ULB)** of the Technical University Darmstadt (TU).\
+We have cooperated with the company **Knowledge Integration, Sheffield (K-Int)**.
 
 It was dedicated to the legal and technical aspects of a cooperative usage scenario involving
 several libraries. The background to this is the increasing number of cooperative degree programs and the use of large
 libraries by users which are not members of the library's home institution, primarily students in metropolitan areas. At the end was
 a prototypical implementation in the open source library system FOLIO.
+
+For more information about the project, visit [K-Ints blog article](https://www.k-int.com/fedaccs-delivers-federated-authentication-to-folio/)
 
 <!-- TOC --><a name="stripes-ui-modules"></a>
 ## Stripes UI Modules
